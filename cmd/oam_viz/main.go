@@ -36,7 +36,7 @@ import (
 	"github.com/fatih/color"
 	"github.com/cupello/config/config"
 	"github.com/owasp-amass/engine/graph"
-	"github.com/owasp-amass/oam-tools/viz"
+	"github.com/cupello/config/viz"
 )
 
 const (
