@@ -34,7 +34,7 @@ import (
 
 	"github.com/caffix/stringset"
 	"github.com/fatih/color"
-	"github.com/owasp-amass/config/config"
+	"github.com/cupello/config/config"
 	"github.com/owasp-amass/engine/graph"
 	"github.com/owasp-amass/oam-tools/viz"
 )

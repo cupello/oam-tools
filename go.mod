@@ -4,9 +4,9 @@ go 1.21.4
 
 require (
 	github.com/caffix/stringset v0.1.2
+	github.com/cupello/config v0.0.2
 	github.com/fatih/color v1.17.0
 	github.com/owasp-amass/asset-db v0.6.0
-	github.com/owasp-amass/config v0.6.0
 	github.com/owasp-amass/engine v0.0.1
 	github.com/owasp-amass/open-asset-model v0.6.0
 	github.com/stretchr/testify v1.9.0

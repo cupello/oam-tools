@@ -707,6 +707,8 @@ github.com/coreos/go-semver v0.3.0/go.mod h1:nnelYz7RCh+5ahJtPPxZlU+153eP4D4r3Ee
 github.com/coreos/go-systemd/v22 v22.3.2/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
 github.com/cpuguy83/go-md2man v1.0.10/go.mod h1:SmD6nW6nTyfqj6ABTjUi3V3JVMnlJmwcJI5acqYI6dE=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
+github.com/cupello/config v0.0.2 h1:5BTexNP9XFX9MFdoXTpR+VCqzFR/W+qQga/TBM4b1b0=
+github.com/cupello/config v0.0.2/go.mod h1:CJFl/Tnd23OnlxOnySYH0ZvqQquxUDk6QCBKFXDBNZI=
 github.com/d4l3k/messagediff v1.2.1 h1:ZcAIMYsUg0EAp9X+tt8/enBE/Q8Yd5kzPynLyKptt9U=
 github.com/d4l3k/messagediff v1.2.1/go.mod h1:Oozbb1TVXFac9FtSIxHBMnBCq2qeH/2KkEQxENCrlLo=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -1116,8 +1118,6 @@ github.com/owasp-amass/amass/v4 v4.2.0 h1:fG1QtomsxK0uLRqL/5BtPWmh1/m27h5USPJsmh
 github.com/owasp-amass/amass/v4 v4.2.0/go.mod h1:noG761fR7CGpDUlGkw0GiQ+Uar89yMTyMZruz7saHaw=
 github.com/owasp-amass/asset-db v0.6.0 h1:UIaWAtNdtQ2AZZHUQw/4cZN73VquhXKbV2nILiescLQ=
 github.com/owasp-amass/asset-db v0.6.0/go.mod h1:MdJQWLhi2DG+/vCQX3QTPZrIr/UP+egYlLeAmBqJJSE=
-github.com/owasp-amass/config v0.6.0 h1:XpMvEFAf7MbMz0TfiI92edrpWQaPOuPquQInTNN+ERo=
-github.com/owasp-amass/config v0.6.0/go.mod h1:AlPiMXpynSE8cpT3C30zPC/8aBvurxREacCQyrL4KqA=
 github.com/owasp-amass/engine v0.0.1 h1:7OoSXRyv8S+f0UJWaq76EVB+DgRTWr0fQbcoJKI/+74=
 github.com/owasp-amass/engine v0.0.1/go.mod h1:SU2QpQAlFCcXOjtH33wc8xhqpTkRYkpTksVGfCfjoo0=
 github.com/owasp-amass/open-asset-model v0.6.0 h1:mfuUKMbcRhdzC1Li8dt7FfBwsOPKjoLi0tozuzRaB+g=
