@@ -33,10 +33,10 @@ import (
 	"time"
 
 	"github.com/caffix/stringset"
-	"github.com/fatih/color"
 	"github.com/cupello/config/config"
+	"github.com/cupello/oam-tools/viz"
+	"github.com/fatih/color"
 	"github.com/owasp-amass/engine/graph"
-	"github.com/cupello/config/viz"
 )
 
 const (

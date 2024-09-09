@@ -100,7 +100,7 @@ func FprintEnumerationSummary(out io.Writer, total int, asns map[int]*ASNSummary
 	fmt.Fprintln(out)
 	// Print the header information
 	title := "OAM Tool Suite "
-	site := "https://github.com/cupello/config"
+	site := "https://github.com/cupello/oam-tools"
 	b.Fprint(out, title+Version)
 	num := 80 - (len(title) + len(Version) + len(site))
 	pad(num, " ")
