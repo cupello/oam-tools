@@ -1,4 +1,4 @@
-module github.com/owasp-amass/oam-tools
+module github.com/cupello/oam-tools
 
 go 1.21.4
 
